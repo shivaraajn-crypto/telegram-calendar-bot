@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+
+# Virtual envs
+.venv/
+venv/
+env/
+
+# Local config
+.env
+unit_calendar.db
+*.sqlite
+*.db-journal
+
+# Editor
+.vscode/
+.idea/
+.DS_Store
